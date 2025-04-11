@@ -1,0 +1,6 @@
+numpy-mini-project/
+│
+├── main.py
+├── data_analysis.py
+├── matrix_operations.py
+└── README.md
